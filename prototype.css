@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(14,14,18);
+}
+
+.bottomframe{
+    position: absolute ;
+    margin: auto ;
+    bottom: 10px;    
+    left: 25%;
+
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255,0.1);
+    border-radius: 0px 0px 0px 0px;
+    width: 50%;
+    height: 40px;
+    background-color: rgba(255, 255, 255,0);
+}
+
+.bottombutton{
+
+    border-width: 0px;
+    border-radius: 5px;
+    margin: 5px 20px;
+    
+    width: 30px;
+    height: 30px;
+    
+    background-color: rgba(255,255,255,0);
+}
+
+.maintainance{
+    position: absolute;
+    left: 25%;
+    top: 35%;
+    width: 50%;
+    font-family: "consolas";
+    color: rgba(255, 255, 255,0.25);
+}
